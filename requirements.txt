@@ -1,0 +1,2 @@
+pandas>=2.2.2,<2.3
+dataframe_image>=0.2.3,<0.3
